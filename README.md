@@ -1,4 +1,5 @@
 # TUS-TMS-Clamp
+[![DOI](https://zenodo.org/badge/488574180.svg)](https://zenodo.org/badge/latestdoi/488574180)
 
 # 3D-Printed TUS-TMS clamp 
 ***Benjamin R. Kop, Lennart Verhagen, et al., 2022 "preprint in progress - title"***
